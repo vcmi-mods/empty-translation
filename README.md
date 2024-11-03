@@ -63,8 +63,8 @@ Beware! The order of prologs are tricky!
 | Armageddon's Blade | Foolhardy Waywardness | `ABvoFW3.wav` | `campaign.fool.Secret 3 - Here There Be Pirates.h3m.prolog` | Sir Christian |
 | Armageddon's Blade | Foolhardy Waywardness | `ABvoFW4.wav` | `campaign.fool.Secret 4 - Hurry Up and Wait.h3m.prolog` | Sir Christian |
 | Armageddon's Blade | Foolhardy Waywardness | `ABvoFW5.wav` | `campaign.fool.Secret 4 - Hurry Up and Wait.h3m.epilog` | Sir Christian |
-| Shadow Of the Death | New Beginning | `H3x2NBb.wav` | `campaign.gem.Gem1.h3m.prolog` | Gem |
 | Shadow Of the Death | New Beginning | `H3x2NBa.wav` | `campaign.gem.Gem2.h3m.prolog` | Gem |
+| Shadow Of the Death | New Beginning | `H3x2NBb.wav` | `campaign.gem.Gem1.h3m.prolog` | Gem |
 | Shadow Of the Death | New Beginning | `H3x2NBc.wav` | `campaign.gem.Gem3.h3m.prolog` | Gem |
 | Shadow Of the Death | New Beginning | `H3x2NBd.wav` | `campaign.gem.Gem4.h3m.prolog` | Gem |
 | Shadow Of the Death | New Beginning | `H3x2NBe.wav` | `campaign.gem.Gem4.h3m.epilog` | Gem |
