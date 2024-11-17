@@ -103,7 +103,7 @@ Beware! The order of prologs are tricky!
 | Shadow Of the Death | Unholy Alliance | `h3x2UAl.wav` | `campaign.final.Final L.h3m.prolog` | Gem |
 | Shadow Of the Death | Unholy Alliance | `H3x2UAm.wav` | `campaign.final.Final L.h3m.epilog` | Yog |
 | Shadow Of the Death | Specter of Power | `H3x2SPa.wav` | `campaign.secret.Secret A.h3m.prolog` | Sandro |
-| Shadow Of the Death | Specter of Power | `H3x2Spb.wav` | `campaign.secret.Secret B.h3m.prolog` | Sandro |
-| Shadow Of the Death | Specter of Power | `H3x2Spc.wav` | `campaign.secret.Secret C.h3m.prolog` | Sandro |
-| Shadow Of the Death | Specter of Power | `H3x2Spd.wav` | `campaign.secret.Secret D.h3m.prolog` | Sandro |
-| Shadow Of the Death | Specter of Power | `H3x2Spe.wav` | `campaign.secret.Secret D.h3m.epilog` | Sandro |
+| Shadow Of the Death | Specter of Power | `H3x2SPb.wav` | `campaign.secret.Secret B.h3m.prolog` | Sandro |
+| Shadow Of the Death | Specter of Power | `H3x2SPc.wav` | `campaign.secret.Secret C.h3m.prolog` | Sandro |
+| Shadow Of the Death | Specter of Power | `H3x2SPd.wav` | `campaign.secret.Secret D.h3m.prolog` | Sandro |
+| Shadow Of the Death | Specter of Power | `H3x2SPe.wav` | `campaign.secret.Secret D.h3m.epilog` | Sandro |
