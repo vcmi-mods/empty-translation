@@ -30,8 +30,8 @@ Beware! The order of prologs are tricky!
 | Restoration Of Erathia | Seeds of Discontent | `S1A.wav` | `campaign.secret1.Secret-1a.h3m.prolog` | Welnin's man |
 | Restoration Of Erathia | Seeds of Discontent | `S1B.wav` | `campaign.secret1.Secret-1b.h3m.prolog` | Welnin's man |
 | Restoration Of Erathia | Seeds of Discontent | `S1C.wav` | `campaign.secret1.Secret-1c.h3m.prolog` | Welnin's man |
-| Armageddon's Blade | Armageddon's Blade | `ABvoAB3.wav` | `campaign.ab.C- Shadows of the Forest.h3m.prolog` | Gelu |
 | Armageddon's Blade | Armageddon's Blade | `ABvoAB1.wav` | `campaign.ab.A- Catherine's Charge.h3m.prolog` | Catherine IRONFIST |
+| Armageddon's Blade | Armageddon's Blade | `ABvoAB3.wav` | `campaign.ab.C- Shadows of the Forest.h3m.prolog` | Gelu |
 | Armageddon's Blade | Armageddon's Blade | `ABvoAB2.wav` | `campaign.ab.B- Seeking Armageddon.h3m.prolog` | Xenon |
 | Armageddon's Blade | Armageddon's Blade | `ABvoAB4.wav` | `campaign.ab.D- Maker of Sorrows.h3m.prolog` | Xenon |
 | Armageddon's Blade | Armageddon's Blade | `ABvoAB5.wav` | `campaign.ab.E- Return of the King.h3m.prolog` | Roland IRONFIST |
@@ -89,10 +89,10 @@ Beware! The order of prologs are tricky!
 | Shadow Of the Death | Birth of a Barbarian | `H3x2BBd.wav` | `campaign.yog.Yog D.h3m.prolog` | Yog |
 | Shadow Of the Death | Birth of a Barbarian | `H3x2BBe.wav` | `campaign.yog.Yog E.h3m.prolog` | Yog |
 | Shadow Of the Death | Birth of a Barbarian | `H3x2BBf.wav` | `campaign.yog.Yog E.h3m.epilog` | Yog |
-| Shadow Of the Death | Unholy Alliance | `H3x2UAd.wav` | `campaign.final.Final D.h3m.prolog` | Gem |
-| Shadow Of the Death | Unholy Alliance | `H3x2UAc.wav` | `campaign.final.Final C.h3m.prolog` | Gelu |
-| Shadow Of the Death | Unholy Alliance | `H3x2UAb.wav` | `campaign.final.Final B.h3m.prolog` | CRAG Hack |
 | Shadow Of the Death | Unholy Alliance | `H3x2UAa.wav` | `campaign.final.Final A.h3m.prolog` | Yog |
+| Shadow Of the Death | Unholy Alliance | `H3x2UAb.wav` | `campaign.final.Final B.h3m.prolog` | CRAG Hack |
+| Shadow Of the Death | Unholy Alliance | `H3x2UAc.wav` | `campaign.final.Final C.h3m.prolog` | Gelu |
+| Shadow Of the Death | Unholy Alliance | `H3x2UAd.wav` | `campaign.final.Final D.h3m.prolog` | Gem |
 | Shadow Of the Death | Unholy Alliance | `H3x2UAe.wav` | `campaign.final.Final E.h3m.prolog` | Yog |
 | Shadow Of the Death | Unholy Alliance | `H3x2UAf.wav` | `campaign.final.Final F.h3m.prolog` | Gelu |
 | Shadow Of the Death | Unholy Alliance | `H3x2UAg.wav` | `campaign.final.Final G.h3m.prolog` | Sandro |
