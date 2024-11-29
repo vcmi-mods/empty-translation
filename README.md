@@ -32,8 +32,8 @@ Beware! The order of prologs are tricky!
 | Restoration Of Erathia | Seeds of Discontent | `S1C.wav` | `campaign.secret1.Secret-1c.h3m.prolog` | Welnin's man |
 | Armageddon's Blade | Armageddon's Blade | `ABvoAB1.wav` | `campaign.ab.A- Catherine's Charge.h3m.prolog` | Catherine IRONFIST |
 | Armageddon's Blade | Armageddon's Blade | `ABvoAB3.wav` | `campaign.ab.C- Shadows of the Forest.h3m.prolog` | Gelu |
-| Armageddon's Blade | Armageddon's Blade | `ABvoAB2.wav` | `campaign.ab.B- Seeking Armageddon.h3m.prolog` | Xenon |
-| Armageddon's Blade | Armageddon's Blade | `ABvoAB4.wav` | `campaign.ab.D- Maker of Sorrows.h3m.prolog` | Xenon |
+| Armageddon's Blade | Armageddon's Blade | `ABvoAB2.wav` | `campaign.ab.B- Seeking Armageddon.h3m.prolog` | Xeron |
+| Armageddon's Blade | Armageddon's Blade | `ABvoAB4.wav` | `campaign.ab.D- Maker of Sorrows.h3m.prolog` | Xeron |
 | Armageddon's Blade | Armageddon's Blade | `ABvoAB5.wav` | `campaign.ab.E- Return of the King.h3m.prolog` | Roland IRONFIST |
 | Armageddon's Blade | Armageddon's Blade | `ABvoAB6.wav` | `campaign.ab.F- A Blade in the Back.h3m.prolog` | Gelu |
 | Armageddon's Blade | Armageddon's Blade | `ABvoAB7.wav` | `campaign.ab.G- To Kill a Hero.h3m.prolog` | Catherine IRONFIST |
