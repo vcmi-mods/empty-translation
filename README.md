@@ -49,9 +49,9 @@ Beware! The order of prologs are tricky!
 | Armageddon's Blade | Dragon Slayer | `ABvoDS3.wav` | `campaign.slayer.DragonSlayer03.h3m.prolog` | Dracon |
 | Armageddon's Blade | Dragon Slayer | `ABvoDS4.wav` | `campaign.slayer.DragonSlayer04.h3m.prolog` | Dracon |
 | Armageddon's Blade | Dragon Slayer | `ABvoDS5.wav` | `campaign.slayer.DragonSlayer04.h3m.epilog` | Dracon |
-| Armageddon's Blade | Festival of life | `ABvoFL1.wav` | `campaign.festival.Festival of Life 3.h3m.prolog` | Kilgor |
-| Armageddon's Blade | Festival of life | `ABvoFL2.wav` | `campaign.festival.Festival of life 1.h3m.prolog` | Kilgor |
-| Armageddon's Blade | Festival of life | `ABvoFL3.wav` | `campaign.festival.Festival of life 2.h3m.prolog` | Kilgor |
+| Armageddon's Blade | Festival of life | `ABvoFL1.wav` | `campaign.festival.Festival of life 1.h3m.prolog` | Kilgor |
+| Armageddon's Blade | Festival of life | `ABvoFL2.wav` | `campaign.festival.Festival of life 2.h3m.prolog` | Kilgor |
+| Armageddon's Blade | Festival of life | `ABvoFL3.wav` | `campaign.festival.Festival of Life 3.h3m.prolog` | Kilgor |
 | Armageddon's Blade | Festival of life | `ABvoFL4.wav` | `campaign.festival.Festival of life 4.h3m.prolog` | Kilgor |
 | Armageddon's Blade | Festival of life | `ABvoFL5.wav` | `campaign.festival.Festival of life 4.h3m.epilog` | Kilgor |
 | Armageddon's Blade | Playing with Fire | `ABvoPF1.wav` | `campaign.fire.Adrienne1.h3m.prolog` | Adrienne |
