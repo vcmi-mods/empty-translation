@@ -100,7 +100,7 @@ Beware! The order of prologs are tricky!
 | Shadow Of the Death | Unholy Alliance | `H3x2UAi.wav` | `campaign.final.Final I.h3m.prolog` | Gelu |
 | Shadow Of the Death | Unholy Alliance | `H3x2UAj.wav` | `campaign.final.Final J .h3m.prolog` | Yog |
 | Shadow Of the Death | Unholy Alliance | `H3x2UAk.wav` | `campaign.final.Final K.h3m.prolog` | Gem |
-| Shadow Of the Death | Unholy Alliance | `h3x2UAl.wav` | `campaign.final.Final L.h3m.prolog` | Gem |
+| Shadow Of the Death | Unholy Alliance | `H3x2UAl.wav` | `campaign.final.Final L.h3m.prolog` | Gem |
 | Shadow Of the Death | Unholy Alliance | `H3x2UAm.wav` | `campaign.final.Final L.h3m.epilog` | Yog |
 | Shadow Of the Death | Specter of Power | `H3x2SPa.wav` | `campaign.secret.Secret A.h3m.prolog` | Sandro |
 | Shadow Of the Death | Specter of Power | `H3x2SPb.wav` | `campaign.secret.Secret B.h3m.prolog` | Sandro |
