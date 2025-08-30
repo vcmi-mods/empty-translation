@@ -1,5 +1,8 @@
 This project provides text-free graphics, sounds and videos to speed up the translations into any language.
 
+# PSD files
+In the `psd_files` folder there are PSD files with english text layers (with H3 like effects). Just edit the text and save as PNG. Images with palettes needs to convert back to indexed in Photoshop (Image -> Mode -> Indexed). Load the palette from corresponding ACT file and select `None` for dithering.
+
 # Dubbing
 You can generate dubs in common languages [here](https://huggingface.co/spaces/coqui/xtts) and in almost any language [here](https://huggingface.co/spaces/Brasd99/TTS-Voice-Cloner).
 
