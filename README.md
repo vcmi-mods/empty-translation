@@ -133,7 +133,7 @@ Beware! The order of prologs are tricky!
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT05.wav` | `campaign.h4fact.0403.h3m.prolog` | Henrietta |
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT06.wav` | `campaign.h4fact.0403.h3m.epilog` | Henrietta |
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT07.wav` | `campaign.h4fact.0404.h3m.prolog` | Frederick |
-| _Horn of the Abyss_ | _Forged in Fire_ | `FACT08.wav` | `campaign.h4fact.0404.h3m.prolog` | Frederick |
+| _Horn of the Abyss_ | _Forged in Fire_ | `FACT08.wav` | `campaign.h4fact.0404.h3m.epilog` | Frederick |
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT09.wav` | `campaign.h4fact.0405.h3m.prolog` | Frederick |
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT10.wav` | `campaign.h4fact.0405.h3m.prolog2` | Frederick |
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT11.wav` | `campaign.h4fact.0405.h3m.epilog` | Frederick |
