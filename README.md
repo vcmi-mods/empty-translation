@@ -128,7 +128,7 @@ Beware! The order of prologs are tricky!
 | _Horn of the Abyss_ | _Horn of the Abyss_ | `HORN5.wav` | `campaign.h3horn.0304.h3m.epilog` | Horn of the Abyss's narrator |
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT01.wav` | `campaign.h4fact.0401.h3m.prolog` | Henrietta |
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT02.wav` | `campaign.h4fact.0401.h3m.epilog` | Henrietta |
-| _Horn of the Abyss_ | _Forged in Fire_ | `FACT03.wav` | `campaign.h4fact.0402.h3m.prolog` | Henrietta |
+| _Horn of the Abyss_ | _Forged in Fire_ | `FACT03.wav` | `campaign.h4fact.0402.h3m.prolog` | Frederick |
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT04.wav` | `campaign.h4fact.0402.h3m.epilog` | Henrietta |
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT05.wav` | `campaign.h4fact.0403.h3m.prolog` | Henrietta |
 | _Horn of the Abyss_ | _Forged in Fire_ | `FACT06.wav` | `campaign.h4fact.0403.h3m.epilog` | Henrietta |
